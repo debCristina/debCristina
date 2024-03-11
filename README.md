@@ -13,4 +13,4 @@ Desde que iniciei minha jornada no mundo da tecnologia, tenho me encantado com c
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/debCristina/debCristina/output/snake.svg" alt="Snake animation" />
