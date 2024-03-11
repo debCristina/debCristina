@@ -11,4 +11,6 @@ Desde que iniciei minha jornada no mundo da tecnologia, tenho me encantado com c
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debCristina&layout=compact&theme=radical"/>
 </div>
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
