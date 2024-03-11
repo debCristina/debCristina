@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá eu sou a Débora Cristina! 👋    
+Desde que iniciei minha jornada no mundo da tecnologia, tenho me encantado com cada descoberta e desafio que encontro pelo caminho. Estou determinada a explorar novas possibilidades e oportunidades que me permitam expandir meus conhecimentos na área e aprimorar minhas habilidades como desenvolvedora.
 
-<!--
-**debCristina/debCristina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d%C3%A9bora-ferreira-development/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deboracris29a@gmail.com)
 
-Here are some ideas to get you started:
+##
+<div>
+  <a href="https://github.com/debCristina">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=debcristina&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debCristina&layout=compact&theme=radical"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
