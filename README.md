@@ -7,7 +7,7 @@ Desde que iniciei minha jornada no mundo da tecnologia, tenho me encantado com c
 ##
 <div>
   <a href="https://github.com/debCristina">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=debcristina&show_icons=true&theme=radical&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=debcristina&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debCristina&layout=compact&theme=radical"/>
 </div>
 
